@@ -17,7 +17,9 @@
 #ifndef _BIONIC_NETBSD_REENTRANT_H_included
 #define _BIONIC_NETBSD_REENTRANT_H_included
 
+#ifndef _REENTRANT
 #define _REENTRANT
+#endif
 
 #include <pthread.h>
 #include <signal.h>
