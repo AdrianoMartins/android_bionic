@@ -91,6 +91,8 @@
 
 #include <stdint.h>
 
+#include <stdint.h>
+
 #include "charclass.h"
 
 #define	RANGE_MATCH	1
